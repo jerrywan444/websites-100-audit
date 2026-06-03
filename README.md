@@ -54,6 +54,7 @@ A curated list of genuinely useful free tools, organized by category. Every link
 34. **[pdfdrive.com](https://www.pdfdrive.com/)** — Massive free PDF book search. ⚠️ Mixed catalog includes copyrighted titles — legally grey.
 35. **[libgen.li](https://libgen.li/)** — Millions of free textbooks and papers. ⚠️ Piracy — legally grey in most countries.
 36. **[annas-archive.gs](https://annas-archive.gs/)** — Search engine for essentially every book ever digitized. ⚠️ Piracy — legally grey. (The old `.org` domain is dead; `.gs` is the current mirror.)
+**[https://t.me/houseofknowledge777]** - ✨ Free access to knowledge ✨ Constantly updated digital books, articles and documentary visuals ✨ Learn, grow, and share wisdom
 
 ## Free Courses & Learning
 
